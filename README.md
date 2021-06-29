@@ -8,6 +8,10 @@
 <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" width="200" alt="" />
 
 
+DevIncept is an 30 day open source program helping the student community learn and contribute in various open source project under the guidance of skilled mentors and project admins.
+
+![Devincept](https://user-images.githubusercontent.com/56088741/123548852-1ef59d00-d784-11eb-8e39-255e0c3e97d5.gif)
+
 ## Setup and Installation
 
 ```
